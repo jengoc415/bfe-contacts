@@ -4,6 +4,7 @@ Contacts website for BfE
 
 1. Download files into a folder in desktop
 2. Open 2 terminals
+3. Might need to install Django@3.0.8 in terminal 1
 
 Terminal 1(backend)
 run these commands in the terminal
