@@ -5,7 +5,7 @@ Contacts website for BfE
 1. Download files into a folder in desktop
 2. Open 2 terminals
 
-Terminal 1(backend):
+Terminal 1(backend)
 run these commands in the terminal {
   > folder$ pipenv shell
   (shell) > $ cd contacts/
@@ -15,7 +15,7 @@ run these commands in the terminal {
 }
 
 
-Terminal 2(frontend):
+Terminal 2(frontend)
 run these commands in the terminal {
   > $ cd frontend
   > frontend $ npm start
