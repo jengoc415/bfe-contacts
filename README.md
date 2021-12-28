@@ -17,6 +17,6 @@ run these commands in the terminal
 Terminal 2(frontend)
 run these commands in the terminal
   > $ cd frontend
-  > frontend $ npm start
+  > $ npm start
 
 http://localhost:3000/ is now up and running.
