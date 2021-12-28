@@ -9,9 +9,9 @@ Terminal 1(backend)
 run these commands in the terminal
   > folder $ pipenv shell
   > $ cd contacts/
-  > contacts $ python3 manage.py makemigrations
-  > contacts $ python3 manage.py migrate
-  > contacts $ python3 manage.py runserver
+  > $ python3 manage.py makemigrations
+  > $ python3 manage.py migrate
+  > $ python3 manage.py runserver
 
 
 Terminal 2(frontend)
