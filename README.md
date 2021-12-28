@@ -7,15 +7,11 @@ Contacts website for BfE
 
 Terminal 1(backend)
 run these commands in the terminal
-  > folder$ pipenv shell
-  .
-  (shell) > $ cd contacts/
-  .
-  (shell) > contacts $ python3 manage.py makemigrations
-  .
-  (shell) > contacts $ python3 manage.py migrate
-  .
-  (shell) > contacts $ python3 manage.py runserver
+  > folder $ pipenv shell
+  > $ cd contacts/
+  > contacts $ python3 manage.py makemigrations
+  > contacts $ python3 manage.py migrate
+  > contacts $ python3 manage.py runserver
 
 
 Terminal 2(frontend)
